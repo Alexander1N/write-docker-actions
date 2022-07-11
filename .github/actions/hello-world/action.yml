@@ -20,7 +20,7 @@ inputs:
   fourthGreeting:
     description: "a my own greeting"
     required: false
-         
+    default: "fourth text"         
 
 runs:
   using: "docker"
