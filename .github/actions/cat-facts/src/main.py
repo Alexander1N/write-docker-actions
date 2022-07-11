@@ -20,7 +20,7 @@ fact_list = []
 #def select_random_fact(fact_arr):
 #    return fact_arr[random.randint(0, len(fact_list)+1)]
 
-random_fact = 'random _ fact about cats' #select_random_fact(fact_list)
+random_fact = 'random _ fact about cats' ##select_random_fact(fact_list)
 
 # Print the individual randomly returned cat-fact
 print(random_fact)
